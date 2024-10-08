@@ -1,0 +1,6 @@
+@FluetValidationTraining_HostAddress = http://localhost:5124
+
+GET {{FluetValidationTraining_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
